@@ -17,3 +17,5 @@
 # VS COde
 
 .vscode/*
+
+workspace.code-workspace
