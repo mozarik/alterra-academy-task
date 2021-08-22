@@ -1,23 +1,24 @@
 
-# Project Title
+# Tracking of Alterra Academy Task
 
-A brief description of what this project does and who it's for
+You can fork this repository if you like. Dont just 
 
+## Status of task
 
-## API Reference
+  
 
-#### Get all items
+| Day - Task Name | | Description |
 
-```http
-  GET /api/items
-```
-
-| Task | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | [Test](#task-per-day) |
+
+|  `api_key`  |  `string`  |  [Test](####task-per-day)  |
+
+  
+
 
 # Task Per Day
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NDY4ODc2LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbOTI0NDY3MDgsNjE1NDY4ODc2LC0xNjc5Nj
+c5MjgxXX0=
 -->
