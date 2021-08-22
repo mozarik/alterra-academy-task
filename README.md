@@ -1,7 +1,7 @@
 
 # Tracking of Alterra Academy Task
 
-You can fork this repository if you like. Dont just 
+You can fork this repository if you like. Don't just copy and paste the solution it's not good for you own self. Work it on your self first and then compare it to mine if you like. If you don't understand you can contact me or asking the mentor directly. 
 
 ## Status of task
 
@@ -19,6 +19,6 @@ You can fork this repository if you like. Dont just
 # Task Per Day
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NDY3MDgsNjE1NDY4ODc2LC0xNjc5Nj
-c5MjgxXX0=
+eyJoaXN0b3J5IjpbNjg1MjUwNzc5LDYxNTQ2ODg3NiwtMTY3OT
+Y3OTI4MV19
 -->
