@@ -11,7 +11,7 @@ You can fork this repository if you like. Don't just copy and paste the solution
 | [Test](##1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅ = `Done` 🔄 = `Revisi` 💬 = `Doing`|
 | [#1-Introduction to Golang and Algorithm](##1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅| \
 | [#2-Basic Programming](#2-basic-programming)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day02) |  ✅|\
-| [#3-Big-O Time, Data structure, Function](##3-big-o-time,-data-structure,-function)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day03) |  💬|
+| [#3-Big-O Time, Data structure, Function](#3-big-o-time-data-structure-function)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day03) |  💬|
 
   
 
@@ -27,7 +27,7 @@ You can fork this repository if you like. Don't just copy and paste the solution
 - [Problem 3 AHA ! Article](https://www.programminglogic.com/fast-exponentiation-algorithms/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDI4NTcwMSwxNjQzMDU5OTY4LDE4MT
+eyJoaXN0b3J5IjpbMjA5NDM0MzUyMCwxNjQzMDU5OTY4LDE4MT
 QwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Njg4NzYsLTE2Nzk2Nzky
 ODFdfQ==
 -->
