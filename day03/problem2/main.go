@@ -4,6 +4,10 @@ import "fmt"
 
 func main() {
 	fmt.Print(pow(2, 50))
+	fmt.Print(pow(7, 2))
+	fmt.Print(pow(10, 5))
+	fmt.Print(pow(17, 6))
+	fmt.Print(pow(5, 3))
 }
 
 // Create fast exponentiation function
