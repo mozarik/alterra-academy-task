@@ -21,7 +21,11 @@ You can fork this repository if you like. Don't just copy and paste the solution
 
 ## 2-Basic Programming
 
+## 3-Big-O Time, Data structure, Function
+
+- [Problem 3 AHA ! Article](https://www.programminglogic.com/fast-exponentiation-algorithms/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDAzMjIzOCwxODU1MTg1MjgyLDYxNT
-Q2ODg3NiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTc2Mzg2MzUyNiwxODE0MDMyMjM4LDE4NT
+UxODUyODIsNjE1NDY4ODc2LC0xNjc5Njc5MjgxXX0=
 -->
