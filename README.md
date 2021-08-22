@@ -8,7 +8,8 @@ You can fork this repository if you like. Don't just copy and paste the solution
  
 | Day - Task Name | Problem Solution | Status |
 | :-------- | :-------:| :---------------------------------------------------|
-| [Test](##1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅ = DONE 
+| [Test](##1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅ = `DONE` \
+🔄 = `Revisi` \
 |
 | [#1-Introduction to Golang and Algorithm](##1-introduction-to-golang-and-algorithm)  		| Solution |  ✅|
 
@@ -20,6 +21,6 @@ You can fork this repository if you like. Don't just copy and paste the solution
 ## 1-Introduction to Golang and Algorithm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzQ0ODE4Nyw2MTU0Njg4NzYsLTE2Nz
+eyJoaXN0b3J5IjpbLTY5OTY4MTQyMyw2MTU0Njg4NzYsLTE2Nz
 k2NzkyODFdfQ==
 -->
