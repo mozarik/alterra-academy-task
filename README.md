@@ -7,8 +7,8 @@ You can fork this repository if you like. Don't just copy and paste the solution
 
  
 | Day - Task Name | Problem Solution | Misc |
-| :-------- | :------- | :------------------------- |
-|   		|  Test  |  [#Day1](##1-introduction-to-golang-and-algo)  |
+| :-------- | :-------:| :---------------------------------------------------|
+| 1  		| Solution |  [#Day1](##1-introduction-to-golang-and-algorithm)  |
 
   
 
@@ -18,6 +18,6 @@ You can fork this repository if you like. Don't just copy and paste the solution
 ## 1-Introduction to Golang and Algorithm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NjE1OTE4LDYxNTQ2ODg3NiwtMTY3OT
+eyJoaXN0b3J5IjpbMTg3NTYxODg4LDYxNTQ2ODg3NiwtMTY3OT
 Y3OTI4MV19
 -->
