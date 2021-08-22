@@ -6,9 +6,9 @@ You can fork this repository if you like. Don't just copy and paste the solution
 ## Status of task
 
  
-| Day - Task Name | Problem Solution | Misc |
+| Day - Task Name | Problem Solution | Status |
 | :-------- | :-------:| :---------------------------------------------------|
-| 1  		| Solution |  [#Day1](##1-introduction-to-golang-and-algorithm)  |
+| [#1-Introduction to Golang and Algorithm](##1-introduction-to-golang-and-algorithm)  		| Solution |  |
 
   
 
@@ -18,6 +18,6 @@ You can fork this repository if you like. Don't just copy and paste the solution
 ## 1-Introduction to Golang and Algorithm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTYxODg4LDYxNTQ2ODg3NiwtMTY3OT
-Y3OTI4MV19
+eyJoaXN0b3J5IjpbMTk0MzgxMTAwNSw2MTU0Njg4NzYsLTE2Nz
+k2NzkyODFdfQ==
 -->
