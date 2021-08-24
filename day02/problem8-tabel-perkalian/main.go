@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	createTable(5)
+	createTable(9)
 }
 
 // table perkalian example input 5
