@@ -12,7 +12,7 @@ You can fork this repository if you like. Don't just copy and paste the solution
 | [#1-Introduction to Golang and Algorithm](#1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅| \
 | [#2-Basic Programming](#2-basic-programming)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day02) |  ✅|\
 | [#3-Big-O Time, Data structure, Function](#3-big-o-time-data-structure-function)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day03) |  ✅|\
-| [4-String, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling](#3-big-o-time-data-structure-function)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day03) |  ✅|
+| [4-String, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling](#4-string-advance-function-pointer-struct-method-interface-package--error-handling)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day04) |  💬|
 
   
 
@@ -30,7 +30,7 @@ You can fork this repository if you like. Don't just copy and paste the solution
 
 ## 4-String, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MzU1NjY3LDU2Njk2MjUyMywxNjQzMD
-U5OTY4LDE4MTQwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Njg4NzYs
-LTE2Nzk2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbLTg5MjcwNzA5Nyw1NjY5NjI1MjMsMTY0Mz
+A1OTk2OCwxODE0MDMyMjM4LDE4NTUxODUyODIsNjE1NDY4ODc2
+LC0xNjc5Njc5MjgxXX0=
 -->
