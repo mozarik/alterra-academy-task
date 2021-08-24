@@ -9,8 +9,9 @@ You can fork this repository if you like. Don't just copy and paste the solution
 | Day - Task Name | Problem Solution | Status |
 | :-------- | :-------:| :---------------------------------------------------|
 | [Test](##1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅ = `Done` 🔄 = `Revisi` 💬 = `Doing`|
-| [#1-Introduction to Golang and Algorithm](##1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅|
-| [#2-Basic Programming](##2-basic-programming)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day02) |  ✅|
+| [#1-Introduction to Golang and Algorithm](#1-introduction-to-golang-and-algorithm)  		| [Solution](www.twitter.com/zeinfahrozi) |  ✅| \
+| [#2-Basic Programming](#2-basic-programming)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day02) |  ✅|\
+| [#3-Big-O Time, Data structure, Function](#3-big-o-time-data-structure-function)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day03) |  💬|
 
   
 
@@ -21,7 +22,12 @@ You can fork this repository if you like. Don't just copy and paste the solution
 
 ## 2-Basic Programming
 
+## 3-Big-O Time, Data structure, Function
+
+- [Problem 3 AHA ! Article](https://www.programminglogic.com/fast-exponentiation-algorithms/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDAzMjIzOCwxODU1MTg1MjgyLDYxNT
-Q2ODg3NiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNTY2OTYyNTIzLDE2NDMwNTk5NjgsMTgxND
+AzMjIzOCwxODU1MTg1MjgyLDYxNTQ2ODg3NiwtMTY3OTY3OTI4
+MV19
 -->
