@@ -1,4 +1,6 @@
 
+
+
 # Tracking of Alterra Academy Task
 
 You can fork this repository if you like. Don't just copy and paste the solution it's not good for you own self. Work it on your self first and then compare it to mine if you like. If you don't understand you can contact me or asking the mentor directly. 
@@ -29,8 +31,13 @@ You can fork this repository if you like. Don't just copy and paste the solution
 - [Problem of pair sum is hard to do in Go](https://www.techiedelight.com/find-pair-with-given-sum-array/)
 
 ## 4-String, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling
+Things that helped me while working on day 4 problem
+- [This help me solve the code. think about the ascii](https://www.asciitable.xyz/golang-program-convert-string-character-to-ascii-code/)
+- [Lol of course ASCII in Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+- [Things to consider about rune, byte, string conversion](https://go.dev/blog/strings)
+- [Of course the go proverb](https://go-proverbs.github.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5NzAzNTc0LDU2Njk2MjUyMywxNjQzMD
-U5OTY4LDE4MTQwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Njg4NzYs
-LTE2Nzk2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbMTczNDUzMzQ5LDk3OTcwMzU3NCw1NjY5Nj
+I1MjMsMTY0MzA1OTk2OCwxODE0MDMyMjM4LDE4NTUxODUyODIs
+NjE1NDY4ODc2LC0xNjc5Njc5MjgxXX0=
 -->
