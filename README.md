@@ -5,7 +5,9 @@
 
 You can fork this repository if you like. Don't just copy and paste the solution it's not good for you own self. Work it on your self first and then compare it to mine if you like. If you don't understand you can contact me or asking the mentor directly. 
 
-## For Alterra Academy Student. You can PR your way of solve the problem and we can discuss it. 
+## For Alterra Academy Student. You can PR your way of solve the problem and we can discuss it.  
+
+For editing the README i use https://stackedit.io/. It has integrated sync
 
 ## Status of task
 
@@ -47,8 +49,8 @@ Things that helped me while working on day 4 problem
 - [Example of SoE in Go Concurrency ](https://play.golang.org/p/9U22NfrXeq)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mzg2MzM4NywtMzAxODM0MTA3LDE3Mz
-Q1MzM0OSw5Nzk3MDM1NzQsNTY2OTYyNTIzLDE2NDMwNTk5Njgs
-MTgxNDAzMjIzOCwxODU1MTg1MjgyLDYxNTQ2ODg3NiwtMTY3OT
-Y3OTI4MV19
+eyJoaXN0b3J5IjpbOTY1ODk3MzQ2LDE2NDM4NjMzODcsLTMwMT
+gzNDEwNywxNzM0NTMzNDksOTc5NzAzNTc0LDU2Njk2MjUyMywx
+NjQzMDU5OTY4LDE4MTQwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Nj
+g4NzYsLTE2Nzk2NzkyODFdfQ==
 -->
