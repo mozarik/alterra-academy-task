@@ -5,7 +5,9 @@
 
 You can fork this repository if you like. Don't just copy and paste the solution it's not good for you own self. Work it on your self first and then compare it to mine if you like. If you don't understand you can contact me or asking the mentor directly. 
 
-## For Alterra Academy Student. You can PR your way of solve the problem and we can discuss it. 
+## For Alterra Academy Student. You can PR your way of solve the problem and we can discuss it.  
+
+For editing the README i use https://stackedit.io/. It have feature that sync the MD file in the GitHub Repository.
 
 ## Status of task
 
@@ -17,7 +19,7 @@ You can fork this repository if you like. Don't just copy and paste the solution
 | [#2-Basic Programming](#2-basic-programming)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day02) |  ✅|\
 | [#3-Big-O Time, Data structure, Function](#3-big-o-time-data-structure-function)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day03) |  ✅|\
 | [#4-String, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling](#4-string-advance-function-pointer-struct-method-interface-package--error-handling)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day04) |  ✅|\
-| [#5-Recursive, Number Theory, Sorting, Searching](#5-recursive-number-theory-sorting-searching)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day04) |  ✅|
+| [#5-Recursive, Number Theory, Sorting, Searching](#5-recursive-number-theory-sorting-searching)  | [Solution](https://github.com/mozarik/alterra-academy-task/tree/main/day05) |  💬|
 
   
 
@@ -47,8 +49,8 @@ Things that helped me while working on day 4 problem
 - [Example of SoE in Go Concurrency ](https://play.golang.org/p/9U22NfrXeq)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUyNjYwNzQsLTMwMTgzNDEwNywxNz
-M0NTMzNDksOTc5NzAzNTc0LDU2Njk2MjUyMywxNjQzMDU5OTY4
-LDE4MTQwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Njg4NzYsLTE2Nz
-k2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbODQzMzc4NDczLDE2NDM4NjMzODcsLTMwMT
+gzNDEwNywxNzM0NTMzNDksOTc5NzAzNTc0LDU2Njk2MjUyMywx
+NjQzMDU5OTY4LDE4MTQwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Nj
+g4NzYsLTE2Nzk2NzkyODFdfQ==
 -->
