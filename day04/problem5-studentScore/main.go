@@ -55,7 +55,7 @@ func main() {
 		a.score = append(a.score, score)
 	}
 
-	fmt.Printf("\n Average Score Srtudent is %.f", a.Average())
+	fmt.Printf("\nAverage Score Srtudent is %.f", a.Average())
 
 	scoreMax, nameMax := a.Max()
 	fmt.Printf("\nMax score students is : %s ( %d )", nameMax, scoreMax)
