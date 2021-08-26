@@ -7,7 +7,7 @@ You can fork this repository if you like. Don't just copy and paste the solution
 
 ## For Alterra Academy Student. You can PR your way of solve the problem and we can discuss it.  
 
-For editing the README i use https://stackedit.io/. It has integrated sync
+For editing the README i use https://stackedit.io/. It have feature that sync the MD file in the GitHub Repository.
 
 ## Status of task
 
@@ -49,7 +49,7 @@ Things that helped me while working on day 4 problem
 - [Example of SoE in Go Concurrency ](https://play.golang.org/p/9U22NfrXeq)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1ODk3MzQ2LDE2NDM4NjMzODcsLTMwMT
+eyJoaXN0b3J5IjpbODQzMzc4NDczLDE2NDM4NjMzODcsLTMwMT
 gzNDEwNywxNzM0NTMzNDksOTc5NzAzNTc0LDU2Njk2MjUyMywx
 NjQzMDU5OTY4LDE4MTQwMzIyMzgsMTg1NTE4NTI4Miw2MTU0Nj
 g4NzYsLTE2Nzk2NzkyODFdfQ==
